@@ -1,0 +1,52 @@
+{
+    "bodyTemplate6Data": {
+        "type": "object",
+        "objectId": "bt6Sample",
+        "backgroundImage": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://firebasestorage.googleapis.com/v0/b/login-demo-b6554.appspot.com/o/Webp.net-resizeimage%20(1).jpg?alt=media&token=3e894098-ae22-40d6-a3b2-c255c16ebc88",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://firebasestorage.googleapis.com/v0/b/login-demo-b6554.appspot.com/o/Webp.net-resizeimage%20(1).jpg?alt=media&token=3e894098-ae22-40d6-a3b2-c255c16ebc88",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "image": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://firebasestorage.googleapis.com/v0/b/login-demo-b6554.appspot.com/o/Webp.net-resizeimage%20(1).jpg?alt=media&token=3e894098-ae22-40d6-a3b2-c255c16ebc88",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://firebasestorage.googleapis.com/v0/b/login-demo-b6554.appspot.com/o/Webp.net-resizeimage%20(1).jpg?alt=media&token=3e894098-ae22-40d6-a3b2-c255c16ebc88",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "textContent": {
+            "primaryText": {
+                "type": "PlainText",
+                "text": "Lets Listen to Some superhero super facts"
+            }
+        },
+        "logoUrl": "https://www.nzherald.co.nz/resizer/x4CDkgejEZvH8KyPAzLZti6qgPw=/360x384/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/RNGOX7NRVVEZJFORJOOY4AFMWI.jpg",
+        "hintText": "Try, \"Alexa, open superhero super facts\""
+    }
+}
