@@ -22,7 +22,7 @@
                 {
                     "name": "GetNewFactIntent",
                     "slots": [],
-                    "samples": [   //Change superhero facts according to your skill invocation name
+                    "samples": [
                         "a fact",
                         "a superhero fact",
                         "tell me a fact",
