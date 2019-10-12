@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "superhero super facts",
+            "invocationName": "halsey facts",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
@@ -24,16 +24,16 @@
                     "slots": [],
                     "samples": [
                         "a fact",
-                        "a superhero fact",
+                        "a Halsey facts",
                         "tell me a fact",
                         "give me a fact",
-                        "give me a Superhero facts",
+                        "give me a halsey fact",
                         "tell me trivia",
-                        "tell me a superhero trivia",
+                        "tell me a halsey fact",
                         "give me trivia",
-                        "give me a superhero trivia",
+                        "give me a halsey fact",
                         "give me some information",
-                        "give me some superhero information",
+                        "give me some halsey fact",
                         "tell me something",
                         "give me something"
                     ]
