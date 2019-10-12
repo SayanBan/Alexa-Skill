@@ -1,3 +1,6 @@
+NOTE : **Set your invocation name before doing anything else**
+
+
 Users say a skill's invocation name to begin an interaction with a particular custom skill.
 For example, if the invocation name is "daily horoscopes", users can say:
 
